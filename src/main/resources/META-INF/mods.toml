@@ -1,7 +1,5 @@
 modLoader="javafml"
 loaderVersion="[31,)"
-license="MIT license"
-
 [[mods]]
 modId="fortune-gives-experience"
 version="${version}"

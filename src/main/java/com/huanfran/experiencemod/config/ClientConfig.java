@@ -14,12 +14,12 @@ public class ClientConfig {
     public ClientConfig(ForgeConfigSpec.Builder builder) {
         lootingScalar = builder
                 .comment("The scaling factor for experience gained from weapons with the looting enchantment. 0.5 by default.")
-                .translation(FortuneGivesExperience.MODID + ".config." + "Looting scalar")
+                .translation("fortune-gives-experience.config.Looting scalar")
                 .defineInRange("Looting scalar", 0.5, 0, 1000);
 
         fortuneScalar = builder
                 .comment("The scaling factor for experience gained from tools with the fortune enchantment. 0.5 by default.")
-                .translation(FortuneGivesExperience.MODID + ".config." + "Fortune scalar")
+                .translation("fortune-gives-experience.config.Fortune scalar")
                 .defineInRange("Fortune scalar", 0.5, 0, 1000);
     }
 
