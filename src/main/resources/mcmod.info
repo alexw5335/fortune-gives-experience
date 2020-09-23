@@ -1,0 +1,14 @@
+[{
+	"modid": "fortune-gives-experience",
+	"name": "Fortune Gives Experience",
+	"description": "Makes Fortune and Looting enchantments give additional XP when mining and killing mobs.",
+	"version": "",
+	"mcversion": "",
+	"url": "",
+	"updateUrl": "",
+	"authorList": ["HuanFran"],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}]
