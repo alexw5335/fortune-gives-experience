@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+license="MIT license"
+
+[[mods]]
+modId="fortune-gives-experience"
+version="${version}"
+displayName="Fortune Gives Experience"
+logoFile="fortune-gives-experience.png"
+authors="HuanFran"
+description='''
+Makes Fortune and Looting enchantments give additional XP when mining and killing mobs.
+'''
