@@ -6,7 +6,7 @@
 	"name": "Fortune Gives Experience",
 	"description": "Fortune and looting enchantments give extra experience when mining and killing mobs",
 	"license": "CC0-1.0",
-	"icon": "assets/modid/icon.png",
+	"icon": "assets/fortune-gives-experience/icon.png",
 
 	"environment": "*",
 	"entrypoints": { "main": [ "fortunemod.FortuneGivesExperience" ] },
