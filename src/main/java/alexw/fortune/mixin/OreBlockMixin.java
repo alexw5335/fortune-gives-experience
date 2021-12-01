@@ -1,6 +1,6 @@
-package fortunemod.mixin;
+package alexw.fortune.mixin;
 
-import fortunemod.FortuneGivesExperience;
+import alexw.fortune.FortuneGivesExperience;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.OreBlock;
 import net.minecraft.enchantment.EnchantmentHelper;

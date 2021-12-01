@@ -1,6 +1,6 @@
-package fortunemod.mixin;
+package alexw.fortune.mixin;
 
-import fortunemod.FortuneGivesExperience;
+import alexw.fortune.FortuneGivesExperience;
 import net.minecraft.enchantment.EnchantmentHelper;
 import net.minecraft.enchantment.Enchantments;
 import net.minecraft.entity.mob.MobEntity;

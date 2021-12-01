@@ -1,4 +1,4 @@
-package fortunemod.mixin;
+package alexw.fortune.mixin;
 
 import net.minecraft.block.OreBlock;
 import net.minecraft.util.math.intprovider.UniformIntProvider;

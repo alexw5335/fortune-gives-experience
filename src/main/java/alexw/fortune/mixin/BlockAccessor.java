@@ -1,4 +1,4 @@
-package fortunemod.mixin;
+package alexw.fortune.mixin;
 
 import net.minecraft.block.Block;
 import net.minecraft.server.world.ServerWorld;
