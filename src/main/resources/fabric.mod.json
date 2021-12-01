@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "fortune-gives-experience",
+	"version": "1.1.0",
+
+	"name": "Fortune Gives Experience",
+	"description": "Fortune and looting enchantments give extra experience when mining and killing mobs",
+	"license": "CC0-1.0",
+	"icon": "assets/modid/icon.png",
+
+	"environment": "*",
+	"entrypoints": { "main": [ "fortunemod.FortuneGivesExperience" ] },
+	"mixins": [ "fortune-gives-experience.mixins.json" ],
+
+	"depends": {
+		"fabricloader": ">=0.11.3",
+		"fabric": "*",
+		"minecraft": "1.17.x",
+		"java": ">=16"
+	}
+}
