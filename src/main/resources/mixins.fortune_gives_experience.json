@@ -1,0 +1,10 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "alexw.fortunemod.mixin",
+	"compatibilityLevel": "JAVA_16",
+	"injectors": { "defaultRequire": 1 },
+	"refmap": "mixins.fortune_gives_experience.refmap.json",
+	"mixins": ["MobMixin", "TestMixin"],
+	"server": ["MobMixin", "TestMixin"]
+}

@@ -1,6 +1,5 @@
 package alexw.fortunemod;
 
-import alexw.fortunemod.config.Config;
 import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.config.ModConfig;
