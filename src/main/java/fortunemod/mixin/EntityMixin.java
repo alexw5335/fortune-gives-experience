@@ -1,4 +1,4 @@
-package alexw.fortune.mixin;
+package fortunemod.mixin;
 
 import net.minecraft.entity.Entity;
 import net.minecraft.util.math.Vec3d;

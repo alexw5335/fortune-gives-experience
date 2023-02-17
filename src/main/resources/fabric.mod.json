@@ -9,7 +9,9 @@
 	"icon": "assets/fortune-gives-experience/icon.png",
 
 	"environment": "*",
-	"entrypoints": { "main": [ "alexw.fortune.FortuneGivesExperience" ] },
+	"entrypoints": { "main": [
+		"fortunemod.FortuneGivesExperience"
+	] },
 	"mixins": [ "fortune-gives-experience.mixins.json" ],
 
 	"depends": {

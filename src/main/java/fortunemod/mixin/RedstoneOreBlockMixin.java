@@ -1,6 +1,6 @@
-package alexw.fortune.mixin;
+package fortunemod.mixin;
 
-import alexw.fortune.FortuneGivesExperience;
+import fortunemod.FortuneGivesExperience;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.RedstoneOreBlock;
 import net.minecraft.enchantment.EnchantmentHelper;
@@ -11,7 +11,6 @@ import net.minecraft.util.math.BlockPos;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
-import org.spongepowered.asm.mixin.injection.Redirect;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 @SuppressWarnings({"unused"})

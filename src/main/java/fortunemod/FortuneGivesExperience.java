@@ -1,4 +1,4 @@
-package alexw.fortune;
+package fortunemod;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.loader.api.FabricLoader;
