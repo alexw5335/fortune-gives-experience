@@ -3,21 +3,20 @@
 	"minVersion": "0.8",
 	"package": "fortunemod.mixin",
 	"compatibilityLevel": "JAVA_16",
-	"injectors": { "defaultRequire": 1 },
-
+	"injectors": {
+		"defaultRequire": 1
+	},
 	"mixins": [
+		"BlockInvoker",
 		"BlockMixin",
 		"EntityMixin",
 		"LivingEntityMixin",
-		"OreBlockMixin",
 		"RedstoneOreBlockMixin"
 	],
-
 	"server": [
 		"BlockMixin",
 		"EntityMixin",
 		"LivingEntityMixin",
-		"OreBlockMixin",
 		"RedstoneOreBlockMixin"
 	]
 }
